@@ -60,7 +60,7 @@ for gpu in gpus:
 3. **Visualization**:
    - Initially, the dataset was visualized to confirm its integrity and preprocessing.
 
-   ![Alt text](<https://github.com/RhythmAhir/FashionGAN-Using-Tensorflow/blob/main/images/plot%20of%20four%20times%20and%20get%20images.png>)
+   ![Alt text](<https://github.com/RhythmAhir/FashionGAN-Using-Tensorflow/blob/main/Visualizations/plot%20of%20four%20times%20and%20get%20images.png>)
 
    **Placement**: This visualization belongs in the **Data Preparation** section, as it depicts the original Fashion MNIST dataset.
 
@@ -127,7 +127,7 @@ The GAN was built with two main components: the **generator** and the **discrimi
 - **Visualization**:
   After building the generator, its outputs were tested using random noise as input.
   
-   ![Alt text](<https://github.com/RhythmAhir/FashionGAN-Using-Tensorflow/blob/main/images/Generator%20plot%20four%20times%20and%20get%20images.png>)
+   ![Alt text](<https://github.com/RhythmAhir/FashionGAN-Using-Tensorflow/blob/main/Visualizations/Generator%20plot%20four%20times%20and%20get%20images.png>)
  
   **Placement**: This visualization should appear in the **Generator** section, showcasing its initial performance.
 
@@ -214,7 +214,7 @@ The GAN was built with two main components: the **generator** and the **discrimi
 
 At the end of training, the generator was evaluated using random noise to generate synthetic images.
 
-   ![Alt text](<https://github.com/RhythmAhir/FashionGAN-Using-Tensorflow/blob/main/images/Test%20Out%20the%20Generator.png>)
+   ![Alt text](<https://github.com/RhythmAhir/FashionGAN-Using-Tensorflow/blob/main/Visualizations/Test%20Out%20the%20Generator.png>)
 
 **Placement**: This visualization should be included in the **Evaluation** section to demonstrate the final quality of the generator's outputs.
 
@@ -235,7 +235,7 @@ plt.legend()
 plt.show()
 ```
 
-   ![Alt text](<https://github.com/RhythmAhir/FashionGAN-Using-Tensorflow/blob/main/images/Loss.png>)
+   ![Alt text](<https://github.com/RhythmAhir/FashionGAN-Using-Tensorflow/blob/main/Visualizations/Loss.png>)
 
 ---
 
