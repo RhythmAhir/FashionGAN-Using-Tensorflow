@@ -1,4 +1,4 @@
-# **Project Report: FashionGAN - Generative Adversarial Network for Fashion Image Generation**
+# **FashionGAN - Generative Adversarial Network for Fashion Image Generation Using TensorFlow**
 
 ---
 
